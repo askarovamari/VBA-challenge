@@ -2,7 +2,7 @@ The purpose of the VBA-challenge assignment is to analyze generated stock market
 
 Raw data pupolated on 3 Sheets for 2018-2020 years
 
-
+![](images/Raw%20data.png)
 
 Create a script that loops through all the stocks for one year and outputs the following information:
 
